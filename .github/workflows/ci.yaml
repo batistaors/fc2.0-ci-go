@@ -37,6 +37,6 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: batistaors/fc2.0-ci-go:latest 
+          tags: batista8/fc2.0-ci-go:latest 
 
     
